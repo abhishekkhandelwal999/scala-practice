@@ -1,4 +1,3 @@
-
 object ScalaClass {
 
   def main(args: Array[String]) {
